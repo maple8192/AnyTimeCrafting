@@ -1,0 +1,5 @@
+name: AnyTimeCrafting
+version: '${project.version}'
+main: io.github.maple8192.anytimecrafting.AnyTimeCrafting
+api-version: 1.17
+softdepend: [ KotlinPluginLib ]
