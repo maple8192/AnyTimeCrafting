@@ -6,7 +6,7 @@
 
     <groupId>io.github.maple8192</groupId>
     <artifactId>AnyTimeCrafting</artifactId>
-    <version>1.18-1.0.0</version>
+    <version>1.18.1-1.0.0</version>
     <packaging>jar</packaging>
 
     <name>AnyTimeCrafting</name>
@@ -109,7 +109,7 @@
         <dependency>
             <groupId>io.papermc.paper</groupId>
             <artifactId>paper-api</artifactId>
-            <version>1.18-R0.1-SNAPSHOT</version>
+            <version>1.18.1-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
