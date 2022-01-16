@@ -1,5 +1,7 @@
 name: AnyTimeCrafting
-version: '${project.version}'
 main: io.github.maple8192.anytimecrafting.AnyTimeCrafting
-api-version: 1.17
-softdepend: [ KotlinPluginLib ]
+version: '${version}'
+description: 作業台を設置しなくても使えるようにするプラグインです。
+api-version: 1.18
+depend: [ KotlinPluginLib ]
+authors: [ Maple8192 ]
